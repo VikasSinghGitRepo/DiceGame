@@ -1,0 +1,38 @@
+.container
+{
+	text-align: center;
+	margin:auto;
+	width:70%;
+}
+.dice
+{
+text-align: center;
+display: inline-block;
+}
+body
+{
+	background-color: #39E346;
+}
+h1{
+	font-size: 4rem;
+	font-family: 'cambria',cursive;
+	color:white;
+}
+p
+{
+	font-size: 2rem;
+	font-family: 'cambria',cursive;
+	color:white;
+}
+img
+{
+	width:70%;
+}
+
+footer
+{
+	color:#EEEEEE;
+	text-align:center;
+	font-family: 'cambria',cursive;
+	margin-top: auto;
+}
